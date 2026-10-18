@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv313/
+venv/
+env/
+
+# Downloaded data and working outputs
+data/
+outputs/
+
+# Brain imaging files
+*.nii
+*.nii.gz
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Credentials
+.env
+.env.*
